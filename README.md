@@ -39,7 +39,7 @@ it’s likely to be smaller and manageable to use.
 (for example: various food products are in different aisles we may want to merge them into broader categories)
 * See if any interesting data is missing (like some demographics being underrepresented)
 
-# Questions for TAa
+# Questions for TAs
 
 * The Dunnhumby dataset has a license that requires their permission for publicly publishing 
 results obtained by using their dataset. As far as we know, we need to create a public webpage 
