@@ -5,6 +5,7 @@ We would like to explore buying habits in different demographic groups and how t
 advertising campaigns. Specifically, we want to know how buying habits differ between different age, 
 sex, and household size groups. We also wonder if these groups may respond differently to advertising 
 campaigns.
+
 We will use the Dunnhumby “The Complete Journey” dataset for this because it contains information 
 about all grocery purchases from a number of households, including everything they bought in a store 
 and their demographic information.
