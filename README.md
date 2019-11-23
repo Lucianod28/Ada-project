@@ -17,8 +17,7 @@ and their demographic information.
 * How advertising campaigns impact the different categories people?
 * What is the relation between the shop popularity and the amount of coupons they provide?
 * Do some demographic groups tend to be more regular/irregular in their shopping schedule?
-* Are there trends over time in the amount of money spent on shopping 
-(altogether or in specific categories)?
+* Shopping trends over time 
 
 # Dataset
 
