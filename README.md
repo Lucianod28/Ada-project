@@ -13,7 +13,7 @@ and their demographic information.
 
 # Research questions
 
-* How living status of a person (owner or renter) influences the buying habits?
+* How the shop habbits or transactions are influenced by the status of a person (e.g owner or renter) and also how family composition influences these habbits.
 * How advertising campaigns impact the different categories people?
 * What is the relation between the shop popularity and the amount of coupons they provide?
 * Do some demographic groups tend to be more regular/irregular in their shopping schedule?
