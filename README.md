@@ -32,11 +32,33 @@ it’s likely to be smaller and manageable to use.
 
 # A list of internal milestones up until project milestone 2
 
-* Check for missing data and other anomalies
-* Prepare helper functions to load and preprocess the dataset
-* Analyse the data and try finding interesting demographic and product groups 
-(for example: various food products are in different aisles we may want to merge them into broader categories)
-* See if any interesting data is missing (like some demographics being underrepresented)
+* We will have the follwoing internal mini milestones:
+    - **Week1: 29.10.2019 - 03.11.2019** 
+        - Check for missing data and other anomalies
+    - **Week2: 04.11.2019 - 10.11.2019**
+        - Prepare helper functions to load and preprocess the dataset
+    - **Week3: 11.11.2019 - 17.11.2019**
+        - * Analyse the data and try finding interesting demographic and product groups (for example: various food products are in different aisles we may want to merge them into broader categories)
+    - **Week4: 18.24.2019 - 24.11.2019**
+        - See if any interesting data is missing (like some demographics being underrepresented)
+
+# A list of internal milestones up until project milestone 3
+
+* We plan to create a data story for the third milestone.
+* As internal organization, we proposed to have the following internal mini milestones:
+    - **Week1: 25.11.2019 - 01.12.2019**
+		    - First Half: Gather any particular findings we might have and try to make a sinthesys of things we should include in the datastory
+		    - Second Half: Look over technologies that might help us implement a good looking page like html, javascript (and plotting libraries)
+	
+	- **Week2: 02.12.2019 - 08.12.2019**
+		    - First Half: Make an Idea about how we would want our data story look like and decide the topic
+		    - Second Half: Implement a first version where we arrange things and link libraries and decide about what technologies we use (this includes creating the HTML template, CSS files and other requirements for the web page)
+	
+	- **Week3: 09.12.2019 - 15.12.2019**
+		    - The actual implementation process of the data story
+
+	- **Week4: 16.12.2019 - 19.12.2019**
+		    - Small design refinments
 
 # Questions for TAs
 
