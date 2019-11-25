@@ -13,12 +13,14 @@ and their demographic information.
 
 # Research questions
 
+* Are there any longterm shopping trends? 
 * How shopping habits or transactions are influenced by the status of a person (e.g owner or renter)? Moreover, is there a correlation between family composition and shopping habits?
+* Do some demographic groups tend to shop more frequently than others?
 * How advertising campaigns impact different categories of people?
 * How types of promotions and promotions in general impact sales?
-* What is the relation between the popularity of a shop and the amount of coupons it provides?
-* Do some demographic groups tend to be more regular/irregular in their shopping schedule?
-* Are there any longterm shopping trends? 
+* How frequency of discounts at a store effects sales?
+
+
 
 # Dataset
 
