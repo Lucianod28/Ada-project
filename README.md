@@ -13,11 +13,11 @@ and their demographic information.
 
 # Research questions
 
-* How shopping habits or transactions are influenced by the status of a person (e.g owner or renter)? Moreover, how is there a correlation between family composition and shopping habits?
+* How shopping habits or transactions are influenced by the status of a person (e.g owner or renter)? Moreover, is there a correlation between family composition and shopping habits?
 * How advertising campaigns impact different categories of people?
 * What is the relation between the popularity of a shop and the amount of coupons it provides?
 * Do some demographic groups tend to be more regular/irregular in their shopping schedule?
-* Shopping trends over time 
+* Are there any longterm shopping trends? 
 *
 
 # Dataset
@@ -33,7 +33,7 @@ it’s likely to be smaller and manageable to use.
 
 # A list of internal milestones up until project milestone 2
 
-* We will have the follwoing internal mini milestones:
+* We will have the following internal mini milestones:
     - **Week1: 29.10.2019 - 03.11.2019** 
         - Check for missing data and other anomalies
     - **Week2: 04.11.2019 - 10.11.2019**
@@ -46,7 +46,7 @@ it’s likely to be smaller and manageable to use.
 # A list of internal milestones up until project milestone 3
 
 * We plan to create a data story for the third milestone.
-* As internal organization, we proposed to have the following internal mini milestones:
+* As internal organisation, we proposed to have the following internal mini milestones:
      - **Week1: 25.11.2019 - 01.12.2019**
          - First Half: Gather any particular findings we might have and try to make a sinthesys of things we should include in the datastory
          - Second Half: Look over technologies that might help us implement a good looking page like html, javascript (and plotting libraries)
@@ -58,7 +58,17 @@ it’s likely to be smaller and manageable to use.
          - The actual implementation process of the data story
 
      - **Week4: 16.12.2019 - 19.12.2019**
-         - Small design refinments
+         - Small design refinements
+
+# Questions for TAs
+
+* The Dunnhumby dataset has a license that requires their permission for publicly publishing 
+results obtained by using their dataset. As far as we know, we need to create a public webpage 
+for the project report, can we expect any help from the TAs on getting the permission? Or maybe 
+is the permission granted by default to all course attendants?
+* Can we use external libraries that do not come with Anaconda by default?
+* If we decide to correlate our results with another dataset and we are not sure at the moment 
+can we add that dataset later?
 
 # Questions for TAs
 
