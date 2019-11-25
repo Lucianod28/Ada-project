@@ -13,11 +13,12 @@ and their demographic information.
 
 # Research questions
 
-* How shop habbits or transactions are influenced by the status of a person (e.g owner or renter) and also how family composition influences these habbits.
-* How advertising campaigns impact the different categories people?
-* What is the relation between the shop popularity and the amount of coupons they provide?
+* How shopping habits or transactions are influenced by the status of a person (e.g owner or renter)? Moreover, how is there a correlation between family composition and shopping habits?
+* How advertising campaigns impact different categories of people?
+* What is the relation between the popularity of a shop and the amount of coupons it provides?
 * Do some demographic groups tend to be more regular/irregular in their shopping schedule?
 * Shopping trends over time 
+*
 
 # Dataset
 
