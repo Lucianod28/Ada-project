@@ -63,19 +63,8 @@ it’s likely to be smaller and manageable to use.
 # Questions for TAs
 
 * The Dunnhumby dataset has a license that requires their permission for publicly publishing 
-results obtained by using their dataset. As far as we know, we need to create a public webpage 
-for the project report, can we expect any help from the TAs on getting the permission? Or maybe 
-is the permission granted by default to all course attendants?
+results obtained by using their dataset. Additionaly (to the best of our knowledge), a public webpage needs to be created
+for the project report. Can we expect any help from the TAs on getting the permission? Or is the permission granted by default to all course attendants?
 * Can we use external libraries that do not come with Anaconda by default?
-* If we decide to correlate our results with another dataset and we are not sure at the moment 
-can we add that dataset later?
-
-# Questions for TAs
-
-* The Dunnhumby dataset has a license that requires their permission for publicly publishing 
-results obtained by using their dataset. As far as we know, we need to create a public webpage 
-for the project report, can we expect any help from the TAs on getting the permission? Or maybe 
-is the permission granted by default to all course attendants?
-* Can we use external libraries that do not come with Anaconda by default?
-* If we decide to correlate our results with another dataset and we are not sure at the moment 
+* If we decide on correlating our results with another dataset (not sure at the moment),
 can we add that dataset later?
