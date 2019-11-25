@@ -13,24 +13,23 @@ and their demographic information.
 
 # Research questions
 
-* Are there any longterm shopping trends? 
 * How shopping habits or transactions are influenced by the status of a person (e.g owner or renter)? Moreover, is there a correlation between family composition and shopping habits?
-* Do some demographic groups tend to shop more frequently than others?
 * How advertising campaigns impact different categories of people?
 * How types of promotions and promotions in general impact sales?
-* How frequency of discounts at a store effects sales?
-
-
+* What is the relation between the popularity of a shop and the amount of coupons it provides?
+* Do some demographic groups tend to be more regular/irregular in their shopping schedule?
+* Are there any longterm shopping trends? 
 
 # Dataset
 
 We plan to use the Dunnhumby dataset (“The Complete Journey”). We will have to check if there are 
-missing values (but the data seems to be mostly clean and ready to use) and join multiple tables 
-to be able to relate types of households, their transactions and types of bought products.
+any missing values (but the data seems to be mostly clean and ready to use) and join multiple tables 
+to be able to relate types of households, their transactions, and types of products bought.
 The size of the data is not too big and can be handled on our personal computers. The most important files are rather small, with the biggest one being transactions (136MB). 
+
 The causal data table is the biggest file of all, we would need to use it if we want to analyse 
-the marketing impact, however it has a rather simple structure so after parsing and pickling,
-it’s likely to be smaller and manageable to use.
+the marketing impact, however it has a rather simple structure. Therefore, after parsing and pickling,
+it’s likely to get smaller and become manageable to use.
 
 # A list of internal milestones up until project milestone 2
 
