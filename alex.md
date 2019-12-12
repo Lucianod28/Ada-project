@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Alex test
@@ -41,7 +40,6 @@ title: Alex test
 * It is worth noticing that this might be biased due to very big difference in numbers of between renteres and owners. **Renters represent aproximatively 10% of the total number of owners.**
 
 ### Influence of coupons over renters and owners
-
 
 
     Age Range
