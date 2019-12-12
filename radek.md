@@ -137,8 +137,6 @@ Among people who are spending more (the overall majority), most of them are spen
 ![png](Story_PartRadek_files/Story_PartRadek_46_0.png)
 
 
-<font color = "green">
-
 * It is only a hypothesis, but it seems that 1 = Monday indeed, as the last two days get higher spendings and people tend to go shopping on the weekends (at least in countries when most shops are open on Sundays, but if this shop was closed altogether it would have 0 sales or small sales in only specific shopping points, which would be clear from the plot).
 
 * So we can conjecture that 1 = Monday, 7 = Sunday and people do most sales on the weekend (which seems reasonable as they have more time) and also a bit more than usual on Friday (after work, maybe in preparation for the weekend) and Mondays (maybe to refill after a weekend).
