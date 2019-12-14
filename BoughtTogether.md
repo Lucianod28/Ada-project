@@ -87,6 +87,7 @@ We have found out there were 32 transactions where all of:
 - Green beans
 - Green peas
 - Carrots
+
 have been bought together. Looks like Milk and Bananas showed there mostly due to their very high popularity, but the rest look like common ingredients for a homemade salad.
 
 Moreover, we found 47 transactions where all of:
@@ -96,6 +97,7 @@ Moreover, we found 47 transactions where all of:
 - Mexican salsa
 - Mexican beans (refried)
 - Mexican seasoning mix
+
 have been bought. 
 
 Of course 32 or 47 is very little transactions, but these are containing the full set of all these ingredients. The amount of transactions each subset will be significantly bigger.
