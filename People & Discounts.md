@@ -75,23 +75,24 @@ departments of products as they appear in the dataset:
 <summary>Most popular product categories people use discount tickets on</summary>
 <br>
 
-![svg](DiscountsRedeemed_files/output_64_0.svg)
+<p><img src="/Ada-project/DiscountsRedeemed_files/output_64_0.svg" alt="svg" /></p>
 
 <br>
 
-![svg](DiscountsRedeemed_files/output_66_0.svg)
+<p><img src="/Ada-project/DiscountsRedeemed_files/output_66_0.svg" alt="svg" /></p>
 
 <br>
 
-![svg](DiscountsRedeemed_files/output_68_0.svg)
+<p><img src="/Ada-project/DiscountsRedeemed_files/output_68_0.svg" alt="svg" /></p>
 
 <br>
 
-![svg](DiscountsRedeemed_files/output_70_0.svg)
+<p><img src="/Ada-project/DiscountsRedeemed_files/output_70_0.svg" alt="svg" /></p>
 
 <br>
 
-![svg](DiscountsRedeemed_files/output_72_0.svg)
+<p><img src="/Ada-project/DiscountsRedeemed_files/output_72_0.svg" alt="svg" /></p>
+
 </details>
 
 We can see that people use most of their discount tickets on groceries. Every person regardless the family type
