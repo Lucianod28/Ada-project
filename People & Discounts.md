@@ -26,9 +26,9 @@ comparison we shall look at the normalised values.
     65+         59                  2
 
 
-![svg](Story_PartAlex_files/output_47_1.svg)
+![svg](DiscountsRedeemed_files/output_47_1.svg)
 
-![svg](Story_PartAlex_files/output_49_1.svg)
+![svg](DiscountsRedeemed_files/output_49_1.svg)
 
 Looking at the normalised plots from above we see that owners use more discount coupons than renters when they pay
 for products. The only age category where renters use more is for people between 19-24 years old, which seems fair
@@ -51,7 +51,7 @@ kind of families these people come from.
     Single Male                         38
     Unknown                             37
 
-![svg](Story_PartAlex_files/output_59_1.svg)
+![svg](DiscountsRedeemed_files/output_59_1.svg)
 
 Above we can see some numbers that start to explain the intuition before, that most of the people have families
 regardless they have kids or not. We see that most of the redeemed tickets come from families, but because their
@@ -59,7 +59,7 @@ number is dominant we shall have again a look at both the casual and the normali
 In order to have a better understanding about how people use their tickets, we can observe bellow the number of
 transactions for every category of products.
 
-![svg](Story_PartAlex_files/output_63_1.svg)
+![svg](DiscountsRedeemed_files/output_63_1.svg)
 
 There are many categories of products, many of them quite similar, so we grouped the similar ones into higher
 categories. In the following analysis we chose five basic categories of products that every household has. 
@@ -71,15 +71,28 @@ departments of products as they appear in the dataset:
 * Medicines - DRUG GM, PHARMACY SUPPLY
 * Nutrition - NUTRITION
 
-![svg](Story_PartAlex_files/output_64_0.svg)
+<details open>
+<summary>Most popular product categories people use discount tickets on</summary>
+<br>
 
-![svg](Story_PartAlex_files/output_66_0.svg)
+![svg](DiscountsRedeemed_files/output_64_0.svg)
 
-![svg](Story_PartAlex_files/output_68_0.svg)
+<br>
 
-![svg](Story_PartAlex_files/output_70_0.svg)
+![svg](DiscountsRedeemed_files/output_66_0.svg)
 
-![svg](Story_PartAlex_files/output_72_0.svg)
+<br>
+
+![svg](DiscountsRedeemed_files/output_68_0.svg)
+
+<br>
+
+![svg](DiscountsRedeemed_files/output_70_0.svg)
+
+<br>
+
+![svg](DiscountsRedeemed_files/output_72_0.svg)
+</details>
 
 We can see that people use most of their discount tickets on groceries. Every person regardless the family type
 has the peak on the transactions that involve groceries.
