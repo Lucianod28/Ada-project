@@ -72,7 +72,9 @@ departments of products as they appear in the dataset:
 * Nutrition - NUTRITION
 
 <details open>
-<summary>Most popular product categories people use discount tickets on</summary>
+<summary>
+    <b>Most popular product categories people use discount tickets on</b>
+</summary>
 <br>
 
 <p><img src="/Ada-project/DiscountsRedeemed_files/output_64_0.svg" alt="svg" /></p>
