@@ -71,27 +71,18 @@ departments of products as they appear in the dataset:
 * Medicines - DRUG GM, PHARMACY SUPPLY
 * Nutrition - NUTRITION
 
-<details open>
+<details>
 <summary>
     <b>Most popular product categories people use discount tickets on</b>
 </summary>
-<br>
 
 <p><img src="/Ada-project/DiscountsRedeemed_files/output_64_0.svg" alt="svg" /></p>
 
-<br>
-
 <p><img src="/Ada-project/DiscountsRedeemed_files/output_66_0.svg" alt="svg" /></p>
-
-<br>
 
 <p><img src="/Ada-project/DiscountsRedeemed_files/output_68_0.svg" alt="svg" /></p>
 
-<br>
-
 <p><img src="/Ada-project/DiscountsRedeemed_files/output_70_0.svg" alt="svg" /></p>
-
-<br>
 
 <p><img src="/Ada-project/DiscountsRedeemed_files/output_72_0.svg" alt="svg" /></p>
 
