@@ -24,3 +24,6 @@ github:
   repo:           https://github.com/lucianod28/Ada-project
 
 gems: [jekyll-paginate]
+
+plugins:
+  - jekyll-paginate
