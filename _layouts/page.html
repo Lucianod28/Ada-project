@@ -31,6 +31,8 @@ layout: default
 
     {% if prev != "0" %}
     <a class="prev" href="{{ site.baseurl }}/{{prev | replace: " ", "%20"}}">&laquo; {{prev}}</a>
+    {% else %}
+    <a class="prev" href="{{ site.baseurl }}">&laquo; Home</a>
     {% endif %}
     {% if next != "0" %}
     <a class="next" href="{{ site.baseurl }}/{{next | replace: " ", "%20"}}">Next section: {{next}} &raquo;</a>

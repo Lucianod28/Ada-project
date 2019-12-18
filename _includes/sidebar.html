@@ -16,18 +16,8 @@
 
           {% capture current_page %}{{ page.url | replace: "%20", " " | replace: "/", ""}}{% endcapture %}
 
-          {% capture test %}none{% endcapture %}
-          Debug info: <br>
-          Current url: {{page.url}}<br>
-          Current page: '{{current_page | inspect}}'<br>
-
           {% for name in site.pageslist %}
             <a class="sidebar-nav-item{% if current_page == name %} active{% endif %}" href="{{ site.baseurl }}/{{ name | replace: " ", "%20" }}">{{ name }}</a>
-
-            {% if current_page == name %}
-            hello
-            {% capture test %}{{name}}{% endcapture %}
-            {% endif %}
           {% endfor %}
 
 {{test}}
