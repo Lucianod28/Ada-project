@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            'Trends in sales'
 tagline:          'Datastory'
-description:      'Here we present our findigs. You can select a page in the sidebar to go into more detail.'
+description:      'Here we present our findings. You can select a page in the sidebar to go into more detail.'
 url:              https://lucianod28.github.io/
 baseurl:          "/Ada-project"
 
