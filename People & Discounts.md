@@ -4,9 +4,9 @@ title: Influence of discounts
 ---
 
 
-Discounts and promotions are pivotal in steering customers towards stores, and indeed have a substantial impact on sales. We have all seen those massive Black Friday (and like in various different parts of the world) sales, where stores are teeming with people. Intuitively, one is convinced that a price reduction has a psychological impact on the customers, and helps the retailers either get rid of the products on the course of their obsolescence or earn brute margins by virtue of increased sales figures. By means of the following analysis, we have tried to delve deeper into the impact of discounts not only on sales but also on people belonging to different categories. 
+Discounts and promotions are pivotal in steering customers towards stores, and indeed have a substantial impact on sales and margins. We have all seen those massive Black Friday (and like in various different parts of the world) sales, where stores are teeming with people. Intuitively, one is convinced that a price reduction has a psychological impact on customers, and helps retailers either get rid of the products on the course of their obsolescence or earn brute margins by virtue of increased sales figures. By means of the following analysis, we have tried to delve deeper into the impact of discounts not only on sales but also on people belonging to different categories. 
 
-# Impact of discounts on sales
+## Impact of discounts on sales
 
 
 ####  Total sale, sale in dicount period, sale in normal period per category
@@ -197,7 +197,7 @@ if you are young, you have a rent and want to save money.
 This makes us think that most of the owners with age between 25-64 years have families and might have a more regular
 buying habit that renters.
 
-## What kind of people redeemed the coupons and on what kind of products
+### What kind of people redeemed the coupons and on what kind of products
 
 We saw in the previous plots that renters are much less than the owners and that owner redeem and
 that owners redeem much more discount tickets, which is not what we expected to see in the first instance.
