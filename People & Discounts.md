@@ -6,6 +6,8 @@ title: Influence of discounts
 
 ## How advertising campaigns impact the different categories people?
 
+Discounts and promotions are pivotal in steering customers towards stores, and indeed have a substantial impact on sales. We have all seen those massive Black Friday (and like in various different parts of the world) sales, where stores are teeming with people. Intuitively, one is convinced that a price reduction has a psychological impact on the customers, and helps the retailers either get rid of the products on the course of their obsolescence or earn brute margins by virtue of increased sales figures. By means of the following analysis, we have tried to delve deeper into the impact of discounts not only on sales but also on people belonging to different categories. 
+
 ####  Total sale, sale in dicount period, sale in normal period per category
 
 
