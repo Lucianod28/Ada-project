@@ -8,13 +8,12 @@ Discounts and promotions are pivotal in steering customers towards stores, and i
 
 ## Impact of discounts on sales
 
-To study the impact of sales, we analysed the weekend sales of products belonging to four different categories mentioned below for a period of one year. We higlight that no specific brands were analysed. Rather, they were  
+To study the impact of sales, we analysed the weekend sales of products belonging to four different categories mentioned below for a period of one year. We higlight that no specific brands were analysed. Rather, they were 
 
-    Categories 
-    Bag Snacks 
-    Cold Cereal
-    Frozen Pizza
-    Oral Hygiene
+      Bag Snacks 
+      Cold Cereal
+      Frozen Pizza
+      Oral Hygiene
            
 ####  Total sale, sale in dicount period, sale in normal period per category
 
