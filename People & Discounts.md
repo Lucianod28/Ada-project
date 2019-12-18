@@ -4,12 +4,18 @@ title: Influence of discounts
 ---
 
 
-Discounts and promotions are pivotal in steering customers towards stores, and indeed have a substantial impact on sales and margins. We have all seen those massive Black Friday (and like in various different parts of the world) sales, where stores are teeming with people. Intuitively, one is convinced that a price reduction has a psychological impact on customers, and helps retailers either get rid of the products on the course of their obsolescence or earn brute margins by virtue of increased sales figures. By means of the following analysis, we have tried to delve deeper into the impact of discounts not only on sales but also on people belonging to different categories.
+Discounts and promotions are pivotal in steering customers towards stores, and indeed have a substantial impact on sales and margins. We have all seen those massive Black Friday (and like in various different parts of the world) sales, where stores are teeming with people. Intuitively, one is convinced that a price reduction has a psychological impact on customers, and helps retailers either get rid of the products on the course of their obsolescence or earn brute margins by virtue of increased sales figures. By means of the following analysis, we have tried to delve deeper into the impact of discounts not only on sales but also on people belonging to different categories. 
 
 ## Impact of discounts on sales
 
-To study the impact of sales, we analysed the weekend sales of products belonging to four different categories mentioned below for a period of one year.
+To study the impact of sales, we analysed the weekend sales of products belonging to four different categories mentioned below for a period of one year. We higlight that no specific brands were analysed. Rather, they were  
 
+    Categories 
+    Bag Snacks 
+    Cold Cereal
+    Frozen Pizza
+    Oral Hygiene
+           
 ####  Total sale, sale in dicount period, sale in normal period per category
 
 ![svg](Story_reduced_files/Story_reduced_7_0.svg)
@@ -36,8 +42,8 @@ To study the impact of sales, we analysed the weekend sales of products belongin
 
 # How advertising campaigns impact the different categories people?
 
-In this section we analyze how discounts impact people's shop habits.
-We shall look at these habits from 2 different perspective: the status of the person
+In this section we are going to analyze how discounts impact people's shop habits.
+We shall look at these habits from 2 different perspective: the status of the person 
 (owner or renter) and the composition of the person's family.
 These two categories are defining for this part of the analysis since they offer a way to
 split our people into groups that might have different habits. Intuitively we expect to see
@@ -95,9 +101,9 @@ transactions for every category of products.
 ![svg](DiscountsRedeemed_files/output_63_1.svg)
 
 There are many categories of products, many of them quite similar, so we grouped the similar ones into higher
-categories. In the following analysis we chose five basic categories of products that every household has.
+categories. In the following analysis we chose five basic categories of products that every household has. 
 In the left we have the higher categories grouping considered during the analysis and on the right we have the
-departments of products as they appear in the dataset:
+departments of products as they appear in the dataset: 
 * Groceries - GROCERY, PASTRY, GRO BAKERY, PASTRY, FROZEN GROCERY
 * Meat - MEAT-PCKGD, MEAT, MEAT-WHSE, PORK
 * Seafood - SEAFOOD-PCKGD, SEAFOOD
