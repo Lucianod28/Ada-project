@@ -54,7 +54,7 @@ The interpretation of percentage is: of all transactions where Primary product w
 
 For example, we can see that 91% of the times Salad condiments were bought at the salad bar, fresh fruit was also bought. This correlation seems quite likely as these are 2 products from the salad bar, so they tend to be bought together quite often.
 
-Then we can see that 73% of the time someone buys a fruit glaze, they also buy strawberries - of course they need something to put the glaze on, and strawberries look like a very common choice. Maybe it's a good idea for the retailers to do some promotions on buying these two together?
+Then we can see that 73% of the time someone buys a fruit glaze, they also buy strawberries - of course they need something to put the glaze on, and strawberries look like a very common choice. Maybe it is a good idea for the retailers to do some promotions on buying these two together?
 
 We can guess that the Instant breakfast is actually a kind of cereal package, as 73% of times it is bought it is bought with milk as well.
 
@@ -76,7 +76,7 @@ We found that each pair formed from the following set of products has been bough
 
 In fact, there were 161 transactions that contained all of these items at once.
 
-Again, it's not surprising to see milk and bananas in this list since they were bought very often. Thus, we again look at the relativized percentages. We looked at cliques in a similar graph but based on pairs where the relative percentage was at least 25%.
+Again, it is not surprising to see milk and bananas in this list since they were bought very often. Thus, we again look at the relativized percentages. We looked at cliques in a similar graph but based on pairs where the relative percentage was at least 25%.
 
 We found there are 32 transactions where all of:
 - Milk
@@ -86,7 +86,7 @@ We found there are 32 transactions where all of:
 - Green peas
 - Carrots
 
-were bought together. It's likely Milk and Bananas appear mostly due to their very high popularity, but the rest look like common ingredients for a homemade salad.
+were bought together. It is likely Milk and Bananas appear mostly due to their very high popularity, but the rest look like common ingredients for a homemade salad.
 
 Moreover, we found 47 transactions where all of:
 - Milk
