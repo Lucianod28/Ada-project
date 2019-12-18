@@ -10,14 +10,29 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" 
+
+	    <!--<a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}">-->
           <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
+          {% capture current_page %}{{ page.url | replace: "%20", " " | replace: "/", ""}}{% endcapture %}
 
+          {% capture test %}none{% endcapture %}
+          Debug info: <br>
+          Current url: {{page.url}}<br>
+          Current page: '{{current_page | inspect}}'<br>
+
+          {% for name in site.pageslist %}
+            <a class="sidebar-nav-item{% if current_page == name %} active{% endif %}" href="{{ site.baseurl }}/{{ name | replace: " ", "%20" }}">{{ name }}</a>
+
+            {% if current_page == name %}
+            hello
+            {% capture test %}{{name}}{% endcapture %}
+            {% endif %}
+          {% endfor %}
+
+{{test}}
+
+          {% comment %}
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -26,6 +41,8 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+
+      {% endcomment %}
 
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>

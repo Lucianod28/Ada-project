@@ -6,3 +6,33 @@ layout: default
   <h1 class="page-title">{{ page.title }}</h1>
   {{ content }}
 </div>
+
+<div class="PageNavigation">
+    {% capture current_page %}{{ page.url | replace: "%20", " " | replace: "/", ""}}{% endcapture %}
+    {% capture prev %}0{% endcapture %}
+    {% capture next %}0{% endcapture %}
+    {% capture prev_name %}0{% endcapture %}
+    {% capture was_current %}0{% endcapture %}
+
+
+    {% for name in site.pageslist %}
+        {% if was_current == "1" %}
+            {% capture next %}{{name}}{% endcapture %}
+            {% capture was_current %}0{% endcapture %}
+        {% endif %}
+
+        {% if current_page == name %}
+            {% capture prev %}{{prev_name}}{% endcapture %}
+            {% capture was_current %}1{% endcapture %}
+        {% endif %}
+
+        {% capture prev_name %}{{name}}{% endcapture %}
+    {% endfor %}
+
+    {% if prev != "0" %}
+    <a class="prev" href="{{ site.baseurl }}/{{prev | replace: " ", "%20"}}">&laquo; {{prev}}</a>
+    {% endif %}
+    {% if next != "0" %}
+    <a class="next" href="{{ site.baseurl }}/{{next | replace: " ", "%20"}}">Next section: {{next}} &raquo;</a>
+    {% endif %}
+</div>

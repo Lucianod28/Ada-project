@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Influence of discounts
+title: Discounts
 ---
 
 

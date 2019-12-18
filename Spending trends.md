@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trends in household spending
+title: Spending trends
 ---
 We analyzed how much people spend on shopping and how that value changes over time.
 

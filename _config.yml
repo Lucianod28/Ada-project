@@ -27,3 +27,5 @@ gems: [jekyll-paginate]
 
 plugins:
   - jekyll-paginate
+
+pageslist: [Products bought together,Seasonality,Spending trends,Discounts]
