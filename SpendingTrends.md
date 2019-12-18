@@ -6,22 +6,22 @@ We analyzed how much people spend on shopping and how that value changes over ti
 
 ## Weekly spending
 
-First we take a look at the mean household spending each week and see how it varies over time.
+First we look at the mean household spending each week and see how it varies over time.
 
 
 ![svg](SpendingTrends_files/SpendingTrends_6_0.svg)
 
 
-There is a high deviation between subsequent weeks, but we can see that the sales are overall increasing over time. The linear regression shows a rising tendency.
+There is a high deviation between subsequent weeks, but we can see that the sales are overall increasing over time. The linear regression shows a rising trend.
 
 ## Monthly spending
-To deal with the very high variance between weeks, we will now look at the spending within a longer time interval - a month.
+To deal with the very high variance between weeks, we look at the spending within a longer time interval - one month.
 
 
 ![svg](SpendingTrends_files/SpendingTrends_11_0.svg)
 
 
-The plot is much smoother and we can indeed see an increasing trend, especially at the very beginning (in the first half of the fist year). After half a year the trend seems to still be rising, however it slows down a lot in comparison to the first months.
+The plot is much smoother and indeed we see an increasing trend, especially at the very beginning (in the first half of the fist year). After half a year the trend seems to still be rising, however it slows down a lot in comparison to the first months.
 
 ## Some explanation
 It is important to note how we should understand the data we have: we have sales data for a specific set of stores. The fact that we see an increase in spending over time what we really see is increase in store's sales. It is possible that it is due to the people startin o spend more money, but it is equally possible that they are spending the same amount, but choosing the stores we have access to more frequently instead of other stores that are not in this database. In fact the big rise in the first half a year could be explained by the store starting a marketing campaign - the small sales in the beginning could mean new customers starting to sometimes go to this stores and the rapid increase could be the result of them starting to choose it more and more often over other stores due to marketing. The slowdown afterwards may be due to saturation - most interested customers already have started to frequent these stores often and they don't change their habits that much anymore.
