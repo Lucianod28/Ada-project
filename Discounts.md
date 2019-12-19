@@ -15,11 +15,15 @@ To study the impact of sales, we analysed the weekend sales of products belongin
       Frozen Pizza
       Oral Hygiene
            
-  Furthermore, the discounts provided by the stores are of three different types.          
+  Furthermore, the discounts provided by the stores are of three different types:   
+  
+1. **Feature discount**: product was is in-store circular,
+2. **Display discount**: product was a part of an in-store circular, and
+3. **TPR discount**: temporary price reduction only (i.e., shelf tag only. Product's price was reduced but was not on display or in an advertisement)
            
-      Feature discount: product was is in-store circular.
-      Display discount: product was a part of an in-store circular.
-      TPR discount: temporary price reduction only (i.e., shelf tag only. Product's price was reduced but was not on display or in an advertisement)
+      
+      
+      
            
 ####  Total sale, sale in dicount period, sale in normal period per category
 
