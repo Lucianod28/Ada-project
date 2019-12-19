@@ -78,3 +78,7 @@ can we add that dataset later?
 	- Set up deployment the Jekyll blog on Github pages + update the Jekyll theme
 	- Dataset searches for anomalies
 	- Research of the dataset for "Impact of advertising campaigns over different categories people" part of the datastory
+* Luciano de la Igesia
+	- Worked on the question of whether some demographic groups shop more frequently than others, unfortunately the answer was no so we didn't include this analysis on our website
+	- Revised 3 of the reports for other questions
+	- Wrote home-page introduction to our project
