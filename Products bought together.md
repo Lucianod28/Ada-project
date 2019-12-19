@@ -13,13 +13,13 @@ The 5 most often occurring pairs are:
 
 <small>(We converted the original product names like "TROPICAL FRUIT / BANANAS" to simple, slightly less specific names for simplicity. We also show rounded counts in thousands of transactions.)</small>
 
-| Product 1    | Product 2    | Co-occurence count |
+| Product 1    | Product 2    | Co-occurrence count |
 |--------------|--------------|--------------------|
 | Bananas       | Milk         |  ~16k             |
 | Milk         | Bread      |  ~14k             |
 | Some soft drink (can) | Milk         |  ~11k             |
 | Shredded cheese  | Milk         |  ~10k             |
-| Refrigeated juice       | Milk      |  ~15k             |
+| Refrigerated juice       | Milk      |  ~15k             |
 
 
 As we can see, milk is present in almost every pair. This is likely because it is bought frequently overall.
@@ -40,7 +40,7 @@ To explore further, we look at relative counts - for each pair we divide the co-
 
 ## Relative count
 
-Below we can see the top 5 pairs after relativizing the co-occurences. We also removed pairs which were bought less than 100 times (because when one product was bought only once ever, it would result in 100% but that is not a useful conclusion but rather an outlier).
+Below we can see the top 5 pairs after relativizing the co-occurrences. We also removed pairs which were bought less than 100 times (because when one product was bought only once ever, it would result in 100% but that is not a useful conclusion but rather an outlier).
 
 The interpretation of percentage is: of all transactions where Primary product was bought, the fraction of transactions where Secondary product was bought as well.
 
@@ -64,7 +64,7 @@ We can also see that people often buy sour cream along with the salad dressing. 
 
 The next goal was to look at groups of products bigger than mere pairs.
 
-As there are exponentially many subsets of all products, we could not count them all, so we used an approximation. We look at pairs of products that are bought together often (after looking at the distribution of co-occurence counts, we decided for a threshold of sharing at least 1000 transactions) and form a graph. Then we look for cliques in this graph - a clique is a set of products in which each pair was often bought together.
+As there are exponentially many subsets of all products, we could not count them all, so we used an approximation. We look at pairs of products that are bought together often (after looking at the distribution of co-occurrence counts, we decided for a threshold of sharing at least 1000 transactions) and form a graph. Then we look for cliques in this graph - a clique is a set of products in which each pair was often bought together.
 
 We found that each pair formed from the following set of products has been bought together at least 3460 times:
  - Milk
