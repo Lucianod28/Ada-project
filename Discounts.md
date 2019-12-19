@@ -28,17 +28,12 @@ The figures below show the cummulative sale of the products across multiple cate
 
 ![svg](Story_reduced_files/Story_reduced_11_0.svg)
  
- One can deduce that more units are sold on normal days than on promotion days. In addition, feature and display discounts taken sperately sell far more units as compared to TPR discount.   
+Regardless of how counterintuitive and incongruous it may appear, more units are sold on normal days than on promotion days. In addition, feature and display discounts taken seperately sell far more units as compared to TPR discount, which is in line with the anticipated behaviour. Tellingly, the units publicised heavily in in-store circulars and finding their way on store display boards are likely to sell more.    
 
 ### Normalised sales
 
 
 ![svg](Story_reduced_files/Story_reduced_16_0.svg)
-
-
-#### Sales by Feature, Display, or TPR_Only (Normalised)
-
-
 ![svg](Story_reduced_files/Story_reduced_21_0.svg)
 
 
