@@ -26,7 +26,7 @@ To study the impact of sales, we analyze the weekend sales of products belonging
 The figures below show the cumulative sale of the products across multiple categories.
 ![svg](Story_reduced_files/Story_reduced_7_0.svg)
 
-![svg](Story_reduced_files/Story_reduced_11_0.svg)
+![svg](Story_reduced_files/Story_pulkit_11_0.svg)
 
 Regardless of how counterintuitive and incongruous it may appear, more units are sold on normal days than on promotion days. In addition, feature and display discounts taken separately sell far more units as compared to TPR discount, which is in line with the anticipated behaviour. Tellingly, the units publicised heavily in in-store circulars and finding their way onto store display boards are likely to sell more than the ones whose price reduction appears in some random shelf of an aisle.
 
@@ -41,7 +41,7 @@ The above figures can be misleading - for one, they take into account only the a
 #### How discount percentages impact sales
 
 
-![svg](Story_reduced_files/Story_reduced_25_0.svg)
+![svg](Story_reduced_files/Story_pulkit_25_0.svg)
 
 # How people use discount tickets
 
