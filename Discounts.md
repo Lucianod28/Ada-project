@@ -20,17 +20,15 @@ To study the impact of sales, we analysed the weekend sales of products belongin
 1. **Feature discount**: product was is in-store circular,
 2. **Display discount**: product was a part of an in-store circular, and
 3. **TPR discount**: temporary price reduction only (i.e., shelf tag only. Product's price was reduced but was not on display or in an advertisement)
-           
-      
-      
-      
-           
-####  Total sale, sale in dicount period, sale in normal period per category
+                      
+####  Total sale, sale in discount period, sale in normal period per category
 
+The figures below show the cummulative sale of the products across multiple categories. 
 ![svg](Story_reduced_files/Story_reduced_7_0.svg)
 
 ![svg](Story_reduced_files/Story_reduced_11_0.svg)
-
+ 
+ One can deduce that more units are sold on normal days than on promotion days. In addition, feature and display discounts taken sperately sell far more units as compared to TPR discount.   
 
 ### Normalised sales
 
