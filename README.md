@@ -77,7 +77,7 @@ can we add that dataset later?
 	- Research of the dataset for "Impact of advertising campaigns over different categories people" part of the datastory
 * Luciano de la Igesia
 	- Worked on the question of whether some demographic groups shop more frequently than others, unfortunately the answer was no so we didn't include this analysis on our website
-	- Revised 3 of the reports for other questions
+	- Edited/revised all of the pages on the website
 	- Wrote the home page of the website
 * Radosław Waśko:
     - Some dataset preprocessing (adding DAYOFTHEWEEK, HOUR and MONTH columns)
