@@ -83,3 +83,9 @@ can we add that dataset later?
     - Some dataset preprocessing (adding DAYOFTHEWEEK, HOUR and MONTH columns)
     - Prepare datastory for Spending trends, Seasonality and Products bought together
     - Add Previous/Next buttons on the website, tweaked the sidebar
+    
+ * Pulkit Nahata
+	- Investigated the impact of discounts on sales, and analysed different types of discounts
+	- Played around with interactive plots for the final website (did not make the cut)
+	- Edited/revised certain sections of the website
+	- Wrote the home page of the website
