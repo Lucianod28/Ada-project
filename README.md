@@ -10,6 +10,7 @@ We will use the Dunnhumby “The Complete Journey” dataset for this because it
 about all grocery purchases from a number of households, including everything they bought in a store 
 and their demographic information.
 
+The project's site is hosted by Github using Github pages and can be foun here: https://lucianod28.github.io/Ada-project/
 
 # Research questions
 
