@@ -114,22 +114,30 @@ departments of products as they appear in the dataset:
 * Medicines - DRUG GM, PHARMACY SUPPLY
 * Nutrition - NUTRITION
 
-<details>
-<summary>
-    <b>Most popular product categories people use discount tickets on</b>
-</summary>
+### Most popular product categories people use discount tickets on
 
-<p><img src="/Ada-project/DiscountsRedeemed_files/output_64_0.svg" alt="svg" /></p>
-
-<p><img src="/Ada-project/DiscountsRedeemed_files/output_66_0.svg" alt="svg" /></p>
-
-<p><img src="/Ada-project/DiscountsRedeemed_files/output_68_0.svg" alt="svg" /></p>
-
-<p><img src="/Ada-project/DiscountsRedeemed_files/output_70_0.svg" alt="svg" /></p>
-
-<p><img src="/Ada-project/DiscountsRedeemed_files/output_72_0.svg" alt="svg" /></p>
-
-</details>
+Select category: <select id="plotselect">
+<option value="plot1">Groceries</option>
+<option value="plot2">Meat</option>
+<option value="plot3">Seafood</option>
+<option value="plot4">Medicine</option>
+<option value="plot5">Nutrition</option>
+</select>
+<div id="plot1" class="hideableplot">
+<img src="/Ada-project/DiscountsRedeemed_files/output_64_0.svg" alt="svg" />
+</div>
+<div id="plot2" class="hideableplot">
+<img src="/Ada-project/DiscountsRedeemed_files/output_66_0.svg" alt="svg" />
+</div>
+<div id="plot3" class="hideableplot">
+<img src="/Ada-project/DiscountsRedeemed_files/output_68_0.svg" alt="svg" />
+</div>
+<div id="plot4" class="hideableplot">
+<img src="/Ada-project/DiscountsRedeemed_files/output_70_0.svg" alt="svg" />
+</div>
+<div id="plot5" class="hideableplot">
+<img src="/Ada-project/DiscountsRedeemed_files/output_72_0.svg" alt="svg" />
+</div>
 
 We can see that people use most of their discount tickets on groceries. Every person regardless the family type
 has the peak on the transactions that involve groceries.

@@ -38,3 +38,25 @@ layout: default
     <a class="next" href="{{ site.baseurl }}/{{next | replace: " ", "%20"}}">Next section: {{next}} &raquo;</a>
     {% endif %}
 </div>
+
+
+<script>
+ function hidePlots() {
+     var plots = document.getElementsByClassName("hideableplot");
+     for (var i = 0; i < plots.length; i++) {
+        plots[i].style.display = "none";
+     }
+ }
+ var selector = document.getElementById("plotselect");
+ function updatePlot() {
+     console.log(selector.value);
+     hidePlots();
+     document.getElementById(selector.value).style.display = "block";
+ }
+ if (selector != null) {
+     hidePlots();
+     selector.addEventListener("change", updatePlot);
+     updatePlot();
+ }
+
+</script>
