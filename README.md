@@ -10,6 +10,7 @@ We will use the Dunnhumby “The Complete Journey” dataset for this because it
 about all grocery purchases from a number of households, including everything they bought in a store 
 and their demographic information.
 
+The project's site is hosted by Github using Github pages and can be foun here: https://lucianod28.github.io/Ada-project/
 
 # Research questions
 
@@ -70,3 +71,10 @@ for the project report. Can we expect any help from the TAs on getting the permi
 * Can we use external libraries that do not come with Anaconda by default?
 * If we decide on correlating our results with another dataset (not sure at the moment),
 can we add that dataset later?
+
+# Contribution of team members
+
+* Alexandru Placinta:
+	- Set up deployment the Jekyll blog on Github pages + update the Jekyll theme
+	- Dataset searches for anomalies
+	- Research of the dataset for "Impact of advertising campaigns over different categories people" part of the datastory
