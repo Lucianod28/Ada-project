@@ -43,7 +43,7 @@ The above figures can be misleading- for one, the only take into account solely 
 
 ![svg](Story_reduced_files/Story_reduced_25_0.svg)
 
-# Impact of advertising campaigns over different categories people
+# How people use discount tickets
 
 In this section we are going to analyze how discounts impact people's shop habits.
 We shall look at these habits from 2 different perspective: the status of the person 
