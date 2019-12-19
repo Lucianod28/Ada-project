@@ -16,7 +16,7 @@ The project's site is hosted by Github using Github pages and can be foun here: 
 
 * What kinds of products are often bought together?
 * What is the seasonality of various transactions? What are the rush hours?
-* Are there any longterm trends in spending?
+* Are there any long-term trends in spending?
 * How discounts impact sales? Who uses discounts most and what for?
 
 
@@ -75,7 +75,7 @@ can we add that dataset later?
 	- Set up deployment the Jekyll blog on Github pages + update the Jekyll theme
 	- Dataset searches for anomalies
 	- Research of the dataset for "Impact of advertising campaigns over different categories people" part of the datastory
-* Luciano de la Igesia
+* Luciano de la Iglesia
 	- Worked on the question of whether some demographic groups shop more frequently than others, unfortunately the answer was no so we didn't include this analysis on our website
 	- Edited/revised all of the pages on the website
 	- Wrote the home page of the website
