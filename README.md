@@ -78,7 +78,7 @@ can we add that dataset later?
 * Luciano de la Igesia
 	- Worked on the question of whether some demographic groups shop more frequently than others, unfortunately the answer was no so we didn't include this analysis on our website
 	- Revised 3 of the reports for other questions
-	- Wrote home-page introduction to our project
+	- Wrote the home page of the website
 * Radosław Waśko:
     - Some dataset preprocessing (adding DAYOFTHEWEEK, HOUR and MONTH columns)
     - Prepare datastory for Spending trends, Seasonality and Products bought together
