@@ -39,7 +39,7 @@ To study the impact of sales, we analysed the weekend sales of products belongin
 
 ![svg](Story_reduced_files/Story_reduced_25_0.svg)
 
-# How advertising campaigns impact the different categories people?
+# Impact of advertising campaigns over different categories people
 
 In this section we are going to analyze how discounts impact people's shop habits.
 We shall look at these habits from 2 different perspective: the status of the person 
@@ -49,7 +49,7 @@ split our people into groups that might have different habits. Intuitively we ex
 that people those people who are renters and those who have families to spend use more discount
 tickets.
 
-## Influence of discounts over renters and owners
+## How owners and renters spend their discount tickets
 
 As we can below, the number of renters is much smaller than the number of owner. In order to have a fair
 comparison we shall look at the normalised values.
