@@ -32,6 +32,11 @@ We used the <a href="https://www.dunnhumby.com/careers/engineering/sourcefiles">
     </li>
 </ul>
 
+<h1>Dataset Limitations</h1>
+It is important to realize that we only have sales data for a specific set of stores. When we see an increase in spending over time, what we really see is increase in those particular stores' sales. This may reflect a broader trend in society, but it is also possible that people are spending the same amount, but choosing the stores we have access to more frequently instead of other stores that are not in this database. In fact, the big rise in the first half of the year (see spending trends section) could be explained by the store starting a marketing campaign - the small sales in the beginning could mean new customers starting to sometimes go to these stores and the rapid increase could be the result of them starting to choose it more and more often over other stores due to marketing. The slowdown afterwards may be due to saturation - most interested customers already have started to frequent these stores often and they do not change their habits that much anymore.
+<br><br>
+Furthermore, this dataset is particularly limited in terms of demographic data. While the "Complete Journey" dataset contains transaction data for over 2,500 households, it only contains demographic data for 801 of those households. Because demographic group splits are often very uneven, in some cases sample sizes are very small. For example, the dataset is split into 12 income groups, and the "200-249k" group has only 5 households in it. This is part of the reason why we decided not to include some of the demographic analysis we had done.
+
 <div class="PageNavigation">
     {% capture next %}{{site.pageslist | first}}{% endcapture %}
     <a class="next" href="{{ site.baseurl }}/{{next | replace: " ", "%20"}}">First section: {{next}} &raquo;</a>

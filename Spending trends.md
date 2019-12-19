@@ -12,7 +12,7 @@ First we look at the mean household spending each week and see how it varies ove
 ![svg](SpendingTrends_files/SpendingTrends_6_0.svg)
 
 
-There is a high deviation between subsequent weeks, but we can see that the sales are overall increasing over time. The linear regression shows a rising trend.
+There is a high deviation between subsequent weeks, but we can see that the sales are increasing over time. The linear regression shows a rising trend.
 
 ## Monthly spending
 To deal with the very high variance between weeks, we look at the spending within a longer time interval - one month.
@@ -21,24 +21,15 @@ To deal with the very high variance between weeks, we look at the spending withi
 ![svg](SpendingTrends_files/SpendingTrends_11_0.svg)
 
 
-The plot is much smoother and indeed we see an increasing trend, especially at the very beginning (in the first half of the fist year). After half a year the trend seems to still be rising, however it slows down a lot in comparison to the first months.
-
-## Some explanation
-It is important to note understand the limitations of the data we have: we have sales data for a specific set of stores. When we see an increase in spending over time, what we really see is increase in that those particular stores' sales. It is possible that this is due to the people starting to spend more money, but it is also possible that they are spending the same amount, but choosing the stores we have access to more frequently instead of other stores that are not in this database. In fact, the big rise in the first half of the year could be explained by the store starting a marketing campaign - the small sales in the beginning could mean new customers starting to sometimes go to these stores and the rapid increase could be the result of them starting to choose it more and more often over other stores due to marketing. The slowdown afterwards may be due to saturation - most interested customers already have started to frequent these stores often and they do not change their habits that much anymore.
-
-
-![svg](SpendingTrends_files/SpendingTrends_14_0.svg)
-
-
-Looking at overall sales in all the shops seems to confirm our hypothesis. Both plots are quite similar so the spending increase is likely not (primarily) caused by for example buying more expensive products, but it seems the primary cause is people just buying more. Which is likely caused by the shop being more recognizable and becoming the go-to store for more and more people.
+The plot is much smoother and indeed we see an increasing trend, especially at the very beginning (in the first half of the fist year). After six months, the trend seems to still be rising, but it slows down a lot in comparison to the first months.
 
 ## Individual trends
 
-However people are not a namelss mass but a group of individuals. The mean household spending seems to be rising, but does that mean that all the people are spending more and more? Let's find out.
+However, people are not a nameless mass, but a group of individuals. The mean household spending seems to be rising, but does that mean that all the people are spending more and more? Let's find out.
 
-We now try to fit a Linear Regression model to the weekly spending of each household. The fitted line represents a 'trend' in the spending of the household - if the line is going upwards it means the household is spending more and if it is downwars the household is likely to started saving. A horizontal line means the spending stays more or less the same.
+We now try to fit a Linear Regression model to the weekly spending of each household. The fitted line represents a 'trend' in the spending of the household - if the line is going upwards the household is spending more, if it is downwards the household is spending less. A horizontal line means the spending stays about the same.
 
-We will compute a percentage spending change - we fit the line to weekly spending (to avoid the high variance, the line is an approximation of a long term tendency) and assume the line's height in the first week is the starting value and its height in the last week is the final value and compute the percentage difference between the two.
+We compute a percentage spending change - we fit the line to weekly spending (to avoid the high variance, the line is an approximation of a long term tendency) and assume the line's height in the first week is the starting value and its height in the last week is the final value and compute the percentage difference between the two.
 
 We have dropped some outliers from the data which were mostly households that did very few transactions. Given too few transactions the trend approximation was too imprecise to give good results.
 
@@ -57,16 +48,16 @@ That is why we will now analyse the percentage change described earlier - it is 
 
 
 
-We checked that only 3% of samples are extreme outliers (with percentage bigger than 1000%), so we skipped them in the histograms to make them more readable. They are likely caused by households doing not too many transactions and the trend approximation being imprecise with too few samples.
+We checked that only 3% of samples are extreme outliers (with percentage bigger than 1000%), so we skipped them in the histograms for readability. They are likely caused by households doing few transactions and the trend approximation being imprecise with too few samples.
 
 
 ![svg](SpendingTrends_files/SpendingTrends_31_0.svg)
 
 
-A positive value means the spending has been increased - for example 100% means the spending is now twice as at the beginning, 0% means no change and -50% means the spending has decreased by 50% since the beginning.
+A positive value means the spending has increased - for example 100% means the spending is now twice as much as in the beginning, 0% means no change and -50% means the spending has decreased by 50% since the beginning.
 
-Values smaller then -100% may look suspicious - what they represent is samples where there wasn't too much data so the approximated spending trend is indicating that at the end of the period they would be spending negative amounts which is of course illogical.
-We can however treat these values just as big negative values, because these customers were spending much less over time.
+Values smaller then -100% may look suspicious - what they represent is samples where there was not too much data so the approximated spending trend is indicating that at the end of the period they would be spending negative amounts, which is of course illogical.
+We can however treat these values as large negative values, because these customers were spending much less over time.
 
     The median percentage difference is 2.79%, but the average is 32.45%
 
