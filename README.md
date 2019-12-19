@@ -14,13 +14,10 @@ The project's site is hosted by Github using Github pages and can be foun here: 
 
 # Research questions
 
-* Are there any longterm shopping trends? 
-* How shopping habits or transactions are influenced by the status of a person (e.g owner or renter)? Moreover, is there a correlation between family composition and shopping habits?
-* Do some demographic groups tend to shop more frequently than others?
-* How advertising campaigns impact different categories of people?
-* How types of promotions and promotions in general impact sales?
-* How frequency of discounts at a store effects sales?
-
+* What kinds of products are often bought together?
+* What is the seasonality of various transactions? What are the rush hours?
+* Are there any longterm trends in spending?
+* How discounts impact sales? Who uses discounts most and what for?
 
 
 # Dataset
@@ -82,3 +79,7 @@ can we add that dataset later?
 	- Worked on the question of whether some demographic groups shop more frequently than others, unfortunately the answer was no so we didn't include this analysis on our website
 	- Revised 3 of the reports for other questions
 	- Wrote home-page introduction to our project
+* Radosław Waśko:
+    - Some dataset preprocessing (adding DAYOFTHEWEEK, HOUR and MONTH columns)
+    - Prepare datastory for Spending trends, Seasonality and Products bought together
+    - Add Previous/Next buttons on the website, tweaked the sidebar
