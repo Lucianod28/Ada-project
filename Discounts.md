@@ -45,7 +45,8 @@ The above figures can be misleading- for one, the only take into account solely 
 
 # How people use discount tickets
 
-In this section we are going to analyze how discounts impact people's shop habits.
+In this section we are going to analyze how discounts impact people's shop habits, more
+precisely how people spend them.
 We shall look at these habits from 2 different perspective: the status of the person 
 (owner or renter) and the composition of the person's family.
 These two categories are defining for this part of the analysis since they offer a way to
