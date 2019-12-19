@@ -39,16 +39,9 @@ We have dropped some outliers from the data which were mostly households that di
 
 The absolute spending trend is just the coefficient of the linear trend - it is very dependent on the initial value. If someone was spending 200k in the beginning and in the end they are spending 210k, the coefficient would be the same as in the case someone was spending 10k and started spending 20k, but in fact these changes are drastically different (5% vs 100% increase).
 
-That is why we will now analyse the percentage change described earlier - it is a better metric in terms of habits. Because a 2x is very different from a 5% change.
+That is why we will now analyse the percentage change described earlier - it is a better metric in terms of habit because a 2x change is very different from a 5% change.
 
-
-
-
-    3.0
-
-
-
-We checked that only 3% of samples are extreme outliers (with percentage bigger than 1000%), so we skipped them in the histograms for readability. They are likely caused by households doing few transactions and the trend approximation being imprecise with too few samples.
+We found that only 3% of samples are extreme outliers (with percentage bigger than 1000%), so we skipped them in the histograms for readability. They are likely caused by households doing few transactions and the trend approximation being imprecise with too few samples.
 
 
 ![svg](SpendingTrends_files/SpendingTrends_31_0.svg)
