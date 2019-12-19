@@ -8,29 +8,33 @@ Discounts and promotions are pivotal in steering customers towards stores, and i
 
 ## Impact of discounts on sales
 
-To study the impact of sales, we analysed the weekend sales of products belonging to four different categories mentioned below for a period of one year. We higlight that no specific brands were analysed. Rather, they were 
+To study the impact of sales, we analysed the weekend sales of products belonging to different categories over a period of one year. We higlight that no specific brands were analysed. Rather, differnt brands were bunduled up in the follwoing four categories.
 
       Bag Snacks 
       Cold Cereal
       Frozen Pizza
       Oral Hygiene
            
-####  Total sale, sale in dicount period, sale in normal period per category
+  Furthermore, the discounts provided by the stores are of three different types:   
+  
+1. **Feature discount**: product was is in-store circular,
+2. **Display discount**: product was a part of an in-store circular, and
+3. **TPR discount**: temporary price reduction only (i.e., shelf tag only. Product's price was reduced but was not on display or in an advertisement)
+                      
+####  Total sale, sale in discount period, sale in normal period per category
 
+The figures below show the cummulative sale of the products across multiple categories. 
 ![svg](Story_reduced_files/Story_reduced_7_0.svg)
 
 ![svg](Story_reduced_files/Story_reduced_11_0.svg)
-
+ 
+Regardless of how counterintuitive and incongruous it may appear, more units are sold on normal days than on promotion days. In addition, feature and display discounts taken seperately sell far more units as compared to TPR discount, which is in line with the anticipated behaviour. Tellingly, the units publicised heavily in in-store circulars and finding their way on store display boards are likely to sell more than the ones whose price reduction appears in some random shelf of an aisle.   
 
 ### Normalised sales
 
+The above figures can be misleading- for one, the only take into account solely the absolute sales numbers. The results may be skewed as the number of promotion and non-promotion days is discarded. Moroever, the number of stores a type of promotion was featured in is also cast aside in the cummulative sales figures. In conclusion, it is important to normalise the sales to do way with the aforementioned limitations.
 
 ![svg](Story_reduced_files/Story_reduced_16_0.svg)
-
-
-#### Sales by Feature, Display, or TPR_Only (Normalised)
-
-
 ![svg](Story_reduced_files/Story_reduced_21_0.svg)
 
 
