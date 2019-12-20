@@ -88,3 +88,4 @@ can we add that dataset later?
 	- Investigated the impact of discounts on sales, and analysed different types of discounts
 	- Played around with interactive plots for the final website (did not make the cut)
 	- Edited/revised certain sections of the website
+	- Will be responsible for preparing the final presentation
