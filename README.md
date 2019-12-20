@@ -81,7 +81,7 @@ can we add that dataset later?
 	- Wrote the home page of the website
 * Radosław Waśko:
     - Some dataset preprocessing (adding DAYOFTHEWEEK, HOUR and MONTH columns)
-    - Prepare datastory for Spending trends, Seasonality and Products bought together
+    - Prepare analysis and datastory for Spending trends, Seasonality and Products bought together
     - Add Previous/Next buttons on the website, tweaked the sidebar
     
  * Pulkit Nahata
